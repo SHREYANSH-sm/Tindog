@@ -1,0 +1,2 @@
+# Tindog
+dummy startup website
