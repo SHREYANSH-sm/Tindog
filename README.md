@@ -1,2 +1,1 @@
-# Tindog
-dummy startup website
+TinDog Starting Files
